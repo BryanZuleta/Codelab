@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USUARIO/Documents/Android Studio/CodeLab/android-kotlin-fundamentals-apps-master/AndroidTriviaNavigation/app/src/main/res/drawable/about_android_trivia.xml" value="0.1945" />
+        <entry key="..\:/Users/USUARIO/Documents/Android Studio/CodeLab/android-kotlin-fundamentals-apps-master/AndroidTriviaNavigation/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/USUARIO/Documents/Android Studio/CodeLab/android-kotlin-fundamentals-apps-master/AndroidTriviaNavigation/app/src/main/res/layout/fragment_about.xml" value="0.25" />
+        <entry key="..\:/Users/USUARIO/Documents/Android Studio/CodeLab/android-kotlin-fundamentals-apps-master/AndroidTriviaNavigation/app/src/main/res/layout/fragment_rules.xml" value="0.10182370820668693" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
